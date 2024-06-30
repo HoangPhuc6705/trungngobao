@@ -37,7 +37,7 @@ export default function Content() {
                         textAlign: 'justify'
                     }}>
                         Không biết sinh nhật m năm ngoái có tặng gì không ta, nếu chưa thì chắc cái web này là món quà đầu tiên đấy, web này không những là thiệp chúc mừng sinh nhật mà còn là một phần mềm quản lí những dự định sẽ làm trong tương lai gần, nó kiểu như những ước nguyện đấy:)).
-                        Hãy chọn vào phần <span style={bold}>Dự định</span> trên ở thanh điều hướng để trải nghiệm.
+                        Hãy chọn vào phần <span style={bold}>Dự định</span> trên ở thanh điều hướng để trải nghiệm.(Hiện tại đang sửa tính năng này, chờ vài ngày nữa nhé)
                     </p>
                 </div>
             </section>
