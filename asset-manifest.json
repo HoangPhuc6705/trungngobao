@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/trungngobao/static/css/main.b540c841.css",
-    "main.js": "/trungngobao/static/js/main.9bd972bb.js",
+    "main.js": "/trungngobao/static/js/main.efee88bb.js",
     "static/js/453.b8040751.chunk.js": "/trungngobao/static/js/453.b8040751.chunk.js",
     "static/media/noto-sans-devanagari-400-normal.woff": "/trungngobao/static/media/noto-sans-devanagari-400-normal.f05a9c61a35577626752.woff",
     "static/media/noto-sans-latin-ext-400-normal.woff": "/trungngobao/static/media/noto-sans-latin-ext-400-normal.cabb9a4f02da292cd625.woff",
@@ -63,11 +63,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/trungngobao/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "index.html": "/trungngobao/index.html",
     "main.b540c841.css.map": "/trungngobao/static/css/main.b540c841.css.map",
-    "main.9bd972bb.js.map": "/trungngobao/static/js/main.9bd972bb.js.map",
+    "main.efee88bb.js.map": "/trungngobao/static/js/main.efee88bb.js.map",
     "453.b8040751.chunk.js.map": "/trungngobao/static/js/453.b8040751.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b540c841.css",
-    "static/js/main.9bd972bb.js"
+    "static/js/main.efee88bb.js"
   ]
 }
