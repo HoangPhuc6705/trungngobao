@@ -1,0 +1,45 @@
+.container {
+    margin: auto auto;
+    transform: translate(-50%, -50%);
+    width: clamp(250px, 50%, 500px);
+    height: 50vh;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #fff;
+    box-shadow: 3px 3px 4px 1px #8883836e;
+    transform: translateY(50%);
+    opacity: 0;
+    animation: slideIn .3s ease-out forwards;
+    overflow: auto;
+}
+
+.container__title {
+    background: #3DC2EC;
+    color: #F5F7F8;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding: 1em;
+    font-family: 'montserrat', sans-serif;
+    text-transform: uppercase;
+    height: 20%;
+}
+
+.container__introduce {
+    padding: 1em;
+    text-align: justify;
+    font-family: 'Lora', serif;
+    color: #45474B;
+    height: 100%;
+}
+
+.container__introduce>* {
+    text-indent: 3em;
+}
+
+@keyframes slideIn {
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
