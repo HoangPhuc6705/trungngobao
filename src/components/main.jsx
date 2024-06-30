@@ -1,5 +1,5 @@
 import { createElement, useEffect, useState } from "react"
-import { Routes, Route, Link } from 'react-router-dom'
+import { Routes, Route, Link, Switch } from 'react-router-dom'
 import "@fontsource/poppins"
 import "@fontsource/noto-sans"
 import "@fontsource/roboto"
